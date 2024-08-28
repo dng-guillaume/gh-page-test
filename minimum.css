@@ -33,7 +33,7 @@
     box-shadow: var(--md-shadow-z1);
     color: var(--md-admonition-fg-color);
     display: flow-root;
-    font-size: .64rem;
+    font-size: .9rem;
     margin: 1.5625em 0;
     padding: 0 .6rem;
     page-break-inside: avoid;
@@ -129,7 +129,7 @@ html .md-typeset details>:last-child {
 .md-typeset summary {
     background-color: #448aff1a;
     border: none;
-    font-weight: 700;
+    font-weight: 500;
     margin: 0 -.6rem;
     padding-bottom: .4rem;
     padding-top: .4rem;
