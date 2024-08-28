@@ -4,3 +4,5 @@
 ![img](fixed-hit-selection.png)
 
 ![img](bad-hit-selection.png)
+
+[test page](test.html)
