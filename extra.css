@@ -1,0 +1,26 @@
+/* These declarations affect the entire theme of the documentation. */
+.md-grid {
+    max-width: 90%; 
+  }
+
+[data-md-color-scheme="default"],[data-md-color-scheme="slate"] {
+  --md-primary-fg-color:        #004A65;
+  --md-accent-fg-color:         #007A98;
+}
+
+/* These declarations are custom CSS for specific usage with icons (e.g. Release notes) */
+.new-icon {
+  color: #448AFF;
+}
+
+.improvement-icon {
+  color: #00BFA5;
+}
+
+.bugfix-icon {
+  color: #00C853;
+}
+
+.bug-icon {
+  color: #FF1744;
+}
